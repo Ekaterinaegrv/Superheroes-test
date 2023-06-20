@@ -1,0 +1,22 @@
+.card {
+    width: 200px;
+    height: 300px;
+    background-color: #FFF612;
+    border: 5px solid black;
+
+};
+
+.button {
+    font-size: 1.2rem;
+    color: #fff;
+    font-weight: 600;    
+    border: 3px solid black;
+    background-color: black;
+}
+
+.button:hover {
+    border: 3px solid black;
+    background-color: #B20E0E;
+    color:black;
+
+}
